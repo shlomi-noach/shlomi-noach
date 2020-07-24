@@ -10,7 +10,7 @@ I author or authored a bunch of open source projects:
 - [common_schema](https://github.com/shlomi-noach/common_schema)
 - [ccql](https://github.com/github/ccql)
 - [zookeepercli](https://github.com/outbrain/zookeepercli)
-and some more.
+- and some more.
 
 I curate a list of MySQL quality open source software: [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 
